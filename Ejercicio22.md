@@ -6,6 +6,9 @@ Escenario A:
 
 En este escenario, bloquea el parseo, haciendo que la página no se vea hasta que los scripts terminen. Esto provoca un mal rendimiento, pero garantiza un orden de ejecución.
 
+<img width="1257" height="330" alt="image" src="https://github.com/user-attachments/assets/bb11f067-5206-4d66-915b-9d46692c5377" />
+
+
 Escenario B
 
 <img width="850" height="411" alt="Captura de pantalla 2026-09-24 091107" src="https://github.com/user-attachments/assets/dca1a9dc-7a2b-47c2-a97a-ea8c752479dd" />
