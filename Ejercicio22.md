@@ -8,9 +8,14 @@ Escenario B
 
 <img width="850" height="411" alt="Captura de pantalla 2026-09-24 091107" src="https://github.com/user-attachments/assets/dca1a9dc-7a2b-47c2-a97a-ea8c752479dd" />
 
-Escenario B
+Escenario C
 
-Escenario B
+<img width="617" height="376" alt="Captura de pantalla 2026-09-24 091338" src="https://github.com/user-attachments/assets/82120761-cf2d-416f-a23f-48a221261598" />
 
-Escenario B
+Escenario D
+
+<img width="651" height="387" alt="Captura de pantalla 2026-09-24 091535" src="https://github.com/user-attachments/assets/a13f04a0-d7ab-46ea-b318-6803af724478" />
+
+
+Escenario E
 
