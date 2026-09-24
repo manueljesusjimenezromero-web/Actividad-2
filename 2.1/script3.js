@@ -1,5 +1,5 @@
-const p=document.createElement("p");
+for (i=0;i<50000;i++){
+   console.log(i);
+}
+const tit=document.getElementById("title").innerText="Cambiado por 10";
 
-p.textContent="Hola mundo";
-
-document.body.appendChild(p)
