@@ -6,6 +6,8 @@ Escenario A:
 
 Escenario B
 
+<img width="850" height="411" alt="Captura de pantalla 2026-09-24 091107" src="https://github.com/user-attachments/assets/dca1a9dc-7a2b-47c2-a97a-ea8c752479dd" />
+
 Escenario B
 
 Escenario B
