@@ -1,13 +1,10 @@
-Escenarios:
+**Experimento de integracion**:
 
 Escenario A:
 
 <img width="787" height="402" alt="Captura de pantalla 2026-09-24 090248" src="https://github.com/user-attachments/assets/e3e0b9e8-f01d-4929-9ea4-db8f0ab11fe1" />
 
 En este escenario, bloquea el parseo, haciendo que la página no se vea hasta que los scripts terminen. Esto provoca un mal rendimiento, pero garantiza un orden de ejecución.
-
-<img width="1257" height="330" alt="image" src="https://github.com/user-attachments/assets/bb11f067-5206-4d66-915b-9d46692c5377" />
-
 
 Escenario B
 
@@ -32,3 +29,5 @@ Escenario E
 <img width="662" height="392" alt="Captura de pantalla 2026-09-24 092305" src="https://github.com/user-attachments/assets/3b841bae-5b89-413c-bf1b-b6c45eb170c3" />
 
 Se comporta como defer, no bloquea el parseo y garantiza el orden de ejecución.
+
+**Informe de Resultados**
