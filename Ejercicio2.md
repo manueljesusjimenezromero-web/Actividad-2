@@ -12,19 +12,13 @@ Escenario C
 
 <img width="617" height="376" alt="Captura de pantalla 2026-09-24 091338" src="https://github.com/user-attachments/assets/82120761-cf2d-416f-a23f-48a221261598" />
 
-No bloquea el parseo, permite ver el contenido rápidamente y los scripts se ejecutan después del DOM, pero antes del evento, con un orden de ejecución.
-
 Escenario D
 
 <img width="651" height="387" alt="Captura de pantalla 2026-09-24 091535" src="https://github.com/user-attachments/assets/a13f04a0-d7ab-46ea-b318-6803af724478" />
 
-
-
 Escenario E
 
 <img width="662" height="392" alt="Captura de pantalla 2026-09-24 092305" src="https://github.com/user-attachments/assets/3b841bae-5b89-413c-bf1b-b6c45eb170c3" />
-
-Se comporta como defer, no bloquea el parseo y garantiza el orden de ejecución.
 
 **Informe de Resultados**
 
@@ -63,5 +57,7 @@ No bloquea el parseo y respeta el orden de ejecución.
 **Escenario E**
 
 Tarda 5,063
+
+Se comporta como defer, no bloquea el parseo y garantiza el orden de ejecución.
 
 <img width="1258" height="330" alt="Captura de pantalla 2026-09-24 095532" src="https://github.com/user-attachments/assets/5c0ca637-2b5e-46ed-8e06-0a0747a40603" />
