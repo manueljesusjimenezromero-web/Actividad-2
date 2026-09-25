@@ -35,7 +35,7 @@ Tarda 5,085 Segundos
 
 En este escenario, bloquea el parseo, haciendo que la página no se vea hasta que los scripts terminen. Esto provoca un mal rendimiento, pero garantiza un orden de ejecución.
 
-![Uploading Captura de pantalla 2026-09-25 091212.png…]()
+<img width="1337" height="290" alt="Captura de pantalla 2026-09-25 091107" src="https://github.com/user-attachments/assets/369ff867-ed38-4917-911e-5efd9ac3ee5a" />
 
 **Escenario B**
 
@@ -43,3 +43,4 @@ Tarda 5,058 Segundos
 
 No bloquea el parseo, permite ver el contenido rápidamente y los scripts se ejecutan después del DOM, pero antes del evento, con un orden de ejecución.
 
+<img width="1435" height="413" alt="Captura de pantalla 2026-09-25 091755" src="https://github.com/user-attachments/assets/64c1a853-97dc-4e25-b49b-79944e204afb" />
