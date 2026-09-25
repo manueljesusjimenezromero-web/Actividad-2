@@ -43,6 +43,8 @@ No bloquea el parseo, permite ver el contenido rápidamente y los scripts se eje
 
 Tarda 5,089 ms.
 
+El async
+
 No bloquea el parseo, permite ver el contenido rápidamente y los scripts se ejecutan después del DOM, pero antes del evento, con un orden de ejecución. También provoca un mal rendimiento.
 
 <img width="1435" height="413" alt="Captura de pantalla 2026-09-25 091755" src="https://github.com/user-attachments/assets/1dfc5207-014b-4c78-b11d-eb2850db9914" />
