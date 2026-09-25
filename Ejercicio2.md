@@ -58,4 +58,4 @@ Tarda 5,098 Segundos.
 
 No bloquea el parseo y respeta el orden de ejecución.
 
-
+<img width="1435" height="413" alt="Captura de pantalla 2026-09-25 091755" src="https://github.com/user-attachments/assets/1dfc5207-014b-4c78-b11d-eb2850db9914" />
