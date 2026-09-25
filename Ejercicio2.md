@@ -58,6 +58,5 @@ No bloquea el parseo y respeta el orden de ejecución.
 
 Tarda 5,063
 
-Se comporta como defer, no bloquea el parseo y garantiza el orden de ejecución.
 
 <img width="1258" height="330" alt="Captura de pantalla 2026-09-24 095532" src="https://github.com/user-attachments/assets/5c0ca637-2b5e-46ed-8e06-0a0747a40603" />
