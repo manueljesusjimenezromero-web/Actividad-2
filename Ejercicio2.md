@@ -51,7 +51,7 @@ No bloquea el parseo, permite ver el contenido rápidamente y los scripts se eje
 
 Tarda 5,098 ms.
 
-
+El navegador analiza todo el HTML, construye el DOM completo, ejecución de scripts en orden.
 
 <img width="1435" height="413" alt="Captura de pantalla 2026-09-25 091755" src="https://github.com/user-attachments/assets/1dfc5207-014b-4c78-b11d-eb2850db9914" />
 
