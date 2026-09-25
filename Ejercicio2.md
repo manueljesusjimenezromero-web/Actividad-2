@@ -48,4 +48,4 @@ No bloquea el parseo, permite ver el contenido rápidamente y los scripts se eje
 
 Tarda 5,089 Segundos.
 
-No bloquea el parseo, permite ver el contenido rápidamente y los scripts se ejecutan después del DOM, pero antes del evento, con un orden de ejecución.
+No bloquea el parseo, permite ver el contenido rápidamente y los scripts se ejecutan después del DOM, pero antes del evento, con un orden de ejecución. También provoca un mal rendimiento.
