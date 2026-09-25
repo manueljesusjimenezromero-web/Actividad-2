@@ -1,3 +1,4 @@
+
 **Experimento de integracion**:
 
 Escenario A:
@@ -6,7 +7,7 @@ Escenario A:
 
 Escenario B
 
-
+<img width="617" height="372" alt="Captura de pantalla 2026-09-25 100508" src="https://github.com/user-attachments/assets/da821851-0816-4f12-9098-2aa7177bb48b" />
 
 Escenario C
 
