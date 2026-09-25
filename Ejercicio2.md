@@ -6,7 +6,7 @@ Escenario A:
 
 Escenario B
 
-<img width="850" he<img width="837" height="107" alt="Captura de pantalla 2026-09-25 091212" src="https://github.com/user-attachments/assets/6ca166ee-b62b-4230-aecc-31305c571c7d" />
+
 
 Escenario C
 
