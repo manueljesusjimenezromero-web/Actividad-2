@@ -18,7 +18,7 @@ Escenario D
 
 <img width="651" height="387" alt="Captura de pantalla 2026-09-24 091535" src="https://github.com/user-attachments/assets/a13f04a0-d7ab-46ea-b318-6803af724478" />
 
-No bloquea el parseo y respeta el orden de ejecución..
+
 
 Escenario E
 
@@ -49,3 +49,13 @@ No bloquea el parseo, permite ver el contenido rápidamente y los scripts se eje
 Tarda 5,089 Segundos.
 
 No bloquea el parseo, permite ver el contenido rápidamente y los scripts se ejecutan después del DOM, pero antes del evento, con un orden de ejecución. También provoca un mal rendimiento.
+
+<img width="1435" height="413" alt="Captura de pantalla 2026-09-25 091755" src="https://github.com/user-attachments/assets/1dfc5207-014b-4c78-b11d-eb2850db9914" />
+
+**Escenario D**
+
+Tarda 5,098 Segundos.
+
+No bloquea el parseo y respeta el orden de ejecución.
+
+
